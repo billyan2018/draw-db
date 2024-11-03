@@ -8,16 +8,16 @@
           <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbOE8VHgUx2xrooY40My-2" value="Order entry &amp;amp; management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbOE8VHgUx2xrooY40My-4" value="Account" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbOE8VHgUx2xrooY40My-5" value="Clearing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="450" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbOE8VHgUx2xrooY40My-6" value="Market data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="270" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wjFsrnQTrn3daN2qtmzh-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EbOE8VHgUx2xrooY40My-1" target="EbOE8VHgUx2xrooY40My-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
